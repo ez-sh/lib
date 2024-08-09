@@ -1,2 +1,2 @@
-# lib
-Public Library for ez-sh
+# ez-sh library
+coming soon
